@@ -40,56 +40,56 @@ Sample images:
 ```bash
 LANDMASS
 ├── LANDMASS1
-|   ├── chaotic
-|   |   ├── chaotic_0001.mat
-|   |   ├── chaotic_0002.mat
-|   |   ├── ...
-|   |   └── chaotic_5140.mat
-|   ├── fault
-|   |   ├── fault_0001.mat
-|   |   ├── fault_0002.mat
-|   |   ├── ...
-|   |   └── fault_1251.mat
-|   ├── horizon
-|   |   ├── horizon_0001.mat
-|   |   ├── horizon_0002.mat
-|   |   ├── ...
-|   |   └── horizon_1891.mat
-|   └── salt dome
-|   |   ├── saltdome_0001.mat
-|   |   ├── saltdome_0002.mat
-|   |   ├── ...
-|   |   └── saltdome_5140.mat
+│   ├── chaotic
+│   │   ├── chaotic_0001.mat
+│   │   ├── chaotic_0002.mat
+│   │   ├── ...
+│   │   └── chaotic_5140.mat
+│   ├── fault
+│   │   ├── fault_0001.mat
+│   │   ├── fault_0002.mat
+│   │   ├── ...
+│   │   └── fault_1251.mat
+│   ├── horizon
+│   │   ├── horizon_0001.mat
+│   │   ├── horizon_0002.mat
+│   │   ├── ...
+│   │   └── horizon_1891.mat
+│   └── salt dome
+│   │   ├── saltdome_0001.mat
+│   │   ├── saltdome_0002.mat
+│   │   ├── ...
+│   │   └── saltdome_5140.mat
 ├── LANDMASS2
-|   ├── chaotic
-|   |   ├── chaotic_0001.mat
-|   |   ├── chaotic_0002.mat
-|   |   ├── ...
-|   |   └── chaotic_1000.mat
-|   ├── fault
-|   |   ├── fault_0001.mat
-|   |   ├── fault_0002.mat
-|   |   ├── ...
-|   |   └── fault_1000.mat
-|   ├── horizon
-|   |   ├── horizon_0001.mat
-|   |   ├── horizon_0002.mat
-|   |   ├── ...
-|   |   └── horizon_1000.mat
-|   └── salt dome
-|   |   ├── saltdome_0001.mat
-|   |   ├── saltdome_0002.mat
-|   |   ├── ...
-|   |   └── saltdome_1000.mat
+│   ├── chaotic
+│   │   ├── chaotic_0001.mat
+│   │   ├── chaotic_0002.mat
+│   │   ├── ...
+│   │   └── chaotic_1000.mat
+│   ├── fault
+│   │   ├── fault_0001.mat
+│   │   ├── fault_0002.mat
+│   │   ├── ...
+│   │   └── fault_1000.mat
+│   ├── horizon
+│   │   ├── horizon_0001.mat
+│   │   ├── horizon_0002.mat
+│   │   ├── ...
+│   │   └── horizon_1000.mat
+│   └── salt dome
+│   │   ├── saltdome_0001.mat
+│   │   ├── saltdome_0002.mat
+│   │   ├── ...
+│   │   └── saltdome_1000.mat
 ├── SAMPLES
-|   ├── LANDMASS1_Chaotic_Normalized.png
-|   ├── LANDMASS1_Fault_Normalized.png
-|   ├── LANDMASS1_Horizon_Normalized.png
-|   ├── LANDMASS1_SaltDome_Normalized.png
-|   ├── LANDMASS2_Chaotic_Normalized.png
-|   ├── LANDMASS2_Fault_Normalized.png
-|   ├── LANDMASS2_Horizon_Normalized.png
-|   └── LANDMASS2_SaltDome_Normalized.png
+│   ├── LANDMASS1_Chaotic_Normalized.png
+│   ├── LANDMASS1_Fault_Normalized.png
+│   ├── LANDMASS1_Horizon_Normalized.png
+│   ├── LANDMASS1_SaltDome_Normalized.png
+│   ├── LANDMASS2_Chaotic_Normalized.png
+│   ├── LANDMASS2_Fault_Normalized.png
+│   ├── LANDMASS2_Horizon_Normalized.png
+│   └── LANDMASS2_SaltDome_Normalized.png
 └── README
 ```
 
