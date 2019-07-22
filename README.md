@@ -1,6 +1,6 @@
 # Large North-Sea Dataset of Migrated  Aggregated Seismic Structures (LANDMASS)
 
-At the [Center for Energy and Geo Processing (CeGP)](https://cegp.ece.gatech.edu/) and at the [OLIVES lab](www.ghassanalregib.com), we have been working on creating big datasets for post-migrated seismic volumes.
+At the [Center for Energy and Geo Processing (CeGP)](https://cegp.ece.gatech.edu/) and at the [OLIVES lab](https://ghassanalregib.com/), we have been working on creating big datasets for post-migrated seismic volumes.
 The LANDMASS dataset is now available for development, testing, and benchmarking of various techniques aimed towards seismic applications such as retrieval, classification, machine learning … etc.
 
 ## Datasets in LANDMASS
