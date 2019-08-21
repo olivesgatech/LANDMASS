@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="G_zEGUlLf9vLr0f_IU-vTXWlafQ7abEIzH9SIOEi_wI" />
 
 # Large North-Sea Dataset of Migrated  Aggregated Seismic Structures (LANDMASS)
 
