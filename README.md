@@ -97,3 +97,26 @@ LANDMASS
 ## Download 
 In order to receive the download link, please fill out this [FORM](https://goo.gl/forms/at44srIuVaT6sYye2) to submit your information and agree the conditions of use. These information will be kept confidential and will not be released to anybody outside the CeGP administration team.
 
+## Citation 
+
+If you intend to use this dataset, we ask you to please cite it in your work as:
+
+```BibTex:
+@webpage{LANDMASS,
+	Author = {Yazeed Alaudah and Ghassan AlRegib},
+	Title = {LANDMASS Seismic Dataset},
+	Url = {https://github.com/olivesgatech/LANDMASS},
+	Year = {2015}}
+```
+
+Or:
+```
+@inproceedings{alaudah2015curvelet,
+  title={A curvelet-based distance measure for seismic images},
+  author={Alaudah, Yazeed and AlRegib, Ghassan},
+  booktitle={Image Processing (ICIP), 2015 IEEE International Conference on},
+  pages={4200--4204},
+  year={2015},
+  organization={IEEE}
+}
+```
