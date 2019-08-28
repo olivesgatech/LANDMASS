@@ -109,14 +109,10 @@ If you intend to use this dataset, we ask you to please cite it in your work as:
 	Year = {2015}}
 ```
 
-Or:
-```
-@inproceedings{alaudah2015curvelet,
-  title={A curvelet-based distance measure for seismic images},
-  author={Alaudah, Yazeed and AlRegib, Ghassan},
-  booktitle={Image Processing (ICIP), 2015 IEEE International Conference on},
-  pages={4200--4204},
-  year={2015},
-  organization={IEEE}
-}
-```
+## Related publications: 
+* Y. Alaudah and G. AlRegib, "A Curvelet-Based Distance Measure for Seismic Images," in IEEE International Conference on Image Processing (ICIP), Québec City, Canada, Sep. 27-30 2015. [PDF][Code]
+* Y. Alaudah, M. Alfarraj, and G. AlRegib, "Structure Label Prediction Using Similarity-Based Retrieval and Weakly-Supervised Label Mapping," in Geophysics, 2018. [PDF]
+* M. Alfarraj, Y. Alaudah, Z. Long, and G. AlRegib, "Multiresolution Analysis and Learning for Computational Seismic Interpretation," in The Leading Edge, 2018. [PDF][Code]
+* Z. Long, Y. Alaudah, M.A. Qureshi, Y. Hu, Z. Wang, M. Alfarraj, G. AlRegib, A. Amin, M. Deriche, S. Al-Dharrab, and H. Di, "A Comparative Study of Texture Attributes for Characterizing Subsurface Structures in Seismic Volumes," in Interpretation, vol. 6, no. 4, pp. 1055-1066, Oct. 2018. [PDF][Code]
+* Z. Long, Y. Alaudah, M. Qureshi, M. Farraj, Z. Wang, A. Amin, M. Deriche, and G. AlRegib, "Characterization of Migrated Seismic Volumes Using Texture Attributes: A Comparative Study," in Expanded Abstracts of the SEG Annual Meeting, New Orleans, LA, Oct. 18-23 2015. [PDF][Code]
+* Y. Alaudah, S. Gao, and G. AlRegib, "Learning to Label Seismic Structures With Deconvolution Networks and Weak Labels," in Expanded Abstracts of the SEG Annual Meeting, Anaheim, CA, Oct. 14-19 2018. [PDF]
